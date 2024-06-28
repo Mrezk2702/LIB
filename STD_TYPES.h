@@ -3,6 +3,7 @@
 
 
 typedef unsigned char u8;
+typedef unsigned char b;
 typedef signed char s8;
 
 typedef unsigned short int u16;
@@ -15,5 +16,7 @@ typedef float f32;
 typedef double f64;
 
 #define NULL 0
+#define STD_bTRUE 1
+#define STD_bFALSE 0
 
 #endif
